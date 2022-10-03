@@ -1,11 +1,11 @@
 body{
-    background-color:slategray
+    background-color:rgb(233, 155, 172)
     }
     
      h1{
     color:rgb(153, 89, 89) ;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
-    background:rgba(113, 119, 56, 0.685) ;
+    background:rgba(205, 214, 124, 0.685) ;
     background:rgb(0, 0, 0) ;
     text-align: center;
     }
